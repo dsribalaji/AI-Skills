@@ -11,6 +11,7 @@ The root directory is organized by roles.
 ### Roles
 
 *   [`ba/`](ba/) - **Business Analyst**: Contains the tools, agent prompts, skills, and the full multi-phase folder structure necessary for stakeholder discovery, elicitation, requirement gathering, use cases, and non-functional requirements.
+*   [`qa/`](qa/) - **Quality Assurance**: Contains the tools, agent prompts, skills, and folder structure for test planning, design, execution, defect management, and test automation.
 
 ### Adding New Roles
 
