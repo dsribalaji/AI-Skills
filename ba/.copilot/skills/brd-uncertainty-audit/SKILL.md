@@ -1,14 +1,14 @@
 ---
 name: brd-uncertainty-audit
 description: >
-  Apply this skill whenever reviewing, writing, auditing, or improving a Business Requirements Document (BRD), 
-  requirements statement, or any requirements artifact. Triggers include: requests to review a BRD, 
-  assess requirements quality, check if a requirement is clear enough, score requirements, rewrite vague 
-  requirements, or audit a requirements set before a sprint or build. This skill enforces the 
-  'Reduce Uncertainty First' standard — a requirement is only ready when a developer could build it 
-  tomorrow without a single blocking question. Use this before approving any BRD, adding stories to a 
-  sprint, or handing off requirements to a development team. Also triggers on phrases like 
-  "is this requirement clear?", "review my BRD", "what's missing from this spec?", 
+  Apply this skill whenever reviewing, writing, auditing, or improving a Business Requirements Document (BRD),
+  requirements statement, or any requirements artifact. Triggers include: requests to review a BRD,
+  assess requirements quality, check if a requirement is clear enough, score requirements, rewrite vague
+  requirements, or audit a requirements set before a sprint or build. This skill enforces the
+  'Reduce Uncertainty First' standard — a requirement is only ready when a developer could build it
+  tomorrow without a single blocking question. Use this before approving any BRD, adding stories to a
+  sprint, or handing off requirements to a development team. Also triggers on phrases like
+  "is this requirement clear?", "review my BRD", "what's missing from this spec?",
   "are these requirements good enough?", or "can we start building from this?"
 ---
 
@@ -119,7 +119,7 @@ For every statement scoring below 7, produce a rewritten version that targets a 
 **Before / After format:**
 ```
 BEFORE (Score: 3): "The report should be easy to access."
-AFTER  (Score: 9): "Finance managers can access the monthly expense report from the main 
+AFTER  (Score: 9): "Finance managers can access the monthly expense report from the main
                     navigation menu under Reports > Monthly, within one click from any screen."
 Uncertainty removed: who accesses it, where it lives, how many clicks required.
 ```
@@ -132,7 +132,7 @@ For any requirement central to the project, run all three uncertainty lenses exp
 ```
 Requirement: "[statement]"
 
-Type 1 — Business: 
+Type 1 — Business:
   - Who is this for? [answer or OPEN]
   - What problem does it solve? [answer or OPEN]
   - How will we know it worked? [answer or OPEN]

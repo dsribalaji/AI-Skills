@@ -1,18 +1,18 @@
 ---
 name: elicitation-interviews-questionnaires
 description: >
-  Apply this skill whenever planning, designing, conducting, reviewing, or improving Requirements 
-  Elicitation using Interviews, Questionnaires/Surveys, or Reverse Engineering techniques. 
-  Triggers include: requests to design interview questions, build a stakeholder questionnaire, 
-  create a discovery interview script, generate elicitation questions for a BRD, review or score 
-  existing questions, perform black-box reverse engineering on an existing system, or plan a 
-  requirements elicitation session. Also triggers on: "what questions should I ask?", 
-  "help me prepare for my stakeholder interview", "generate a questionnaire for this project", 
-  "reverse engineer this system", "I have an interview with the CEO/manager/user — what do I ask?", 
-  "review my interview questions", "the stakeholder didn't tell me what I needed", 
-  "how do I elicit requirements from a C-level?", or any scenario involving drawing out 
-  information from people or existing systems. ALWAYS operate in Plan Mode when applying this skill — 
-  use numbered steps, scored tables, and Before→After refinement. Never generate questions without 
+  Apply this skill whenever planning, designing, conducting, reviewing, or improving Requirements
+  Elicitation using Interviews, Questionnaires/Surveys, or Reverse Engineering techniques.
+  Triggers include: requests to design interview questions, build a stakeholder questionnaire,
+  create a discovery interview script, generate elicitation questions for a BRD, review or score
+  existing questions, perform black-box reverse engineering on an existing system, or plan a
+  requirements elicitation session. Also triggers on: "what questions should I ask?",
+  "help me prepare for my stakeholder interview", "generate a questionnaire for this project",
+  "reverse engineer this system", "I have an interview with the CEO/manager/user — what do I ask?",
+  "review my interview questions", "the stakeholder didn't tell me what I needed",
+  "how do I elicit requirements from a C-level?", or any scenario involving drawing out
+  information from people or existing systems. ALWAYS operate in Plan Mode when applying this skill —
+  use numbered steps, scored tables, and Before→After refinement. Never generate questions without
   first confirming the discovery goal and stakeholder role.
 ---
 
@@ -191,7 +191,7 @@ When stakeholders use the same word to mean different things ("easy integration,
 5. Limit note-taking during the session: capture Reminder Key Bullet Points only.
    Full notes immediately after — never during, unless recording.
 
-6. Close: Summarise the 3 key things you heard. Ask: 
+6. Close: Summarise the 3 key things you heard. Ask:
    "On a scale of 0–10, how confident are you I understood what you need?"
    "What's the one thing you're most worried I'll get wrong?"
 ```

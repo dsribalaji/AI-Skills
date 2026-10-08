@@ -149,12 +149,12 @@ SPLIT REQUIRED: YES / NO
 
 FINAL STORY (GREEN version):
   As a [role], I want [action], so that [value].
-  
+
   Acceptance Criteria:
   Given / When / Then (AC 1 — happy path)
   Given / When / Then (AC 2 — edge case)
   Given / When / Then (AC 3 — edge case)
-  
+
   Dependencies: [Story #XXX / none]
   Comment (why): [business context if needed]
 

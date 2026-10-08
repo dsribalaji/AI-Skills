@@ -4,10 +4,18 @@ Decisions taken in this project, newest first. Each entry: date, decider,
 the decision, the rationale, and status (active/superseded). The git history
 remains the commit log; this file records *why*.
 
+## 2026-10-08 — Daily small-commit habit (Ruby, active)
+
+- **Decision:** routine small improvement as part of SB's daily commit habit.
+- **Changed:** ba/.copilot/agents/README.md ba/.copilot/agents/db-audit-remedial.md ba/.copilot/agents/user-story-reviewer.md ba/.copilot/agents/user-story-standards.md ba/.copilot/skills/brd-uncertainty-audit/SKILL.md ba/.copilot/skills/db-audit-remediation/SKILL.md ba/.copilot/skills/elicitation-interviews-questionnaires/SKILL.md decision.md
+- **Rationale:** keep the repo maintained and the contribution chart active;
+  only real improvements are committed, never empty commits.
+- **Status:** active.
+
 ## 2026-09-29 — Daily small-commit habit (Ruby, active)
 
 - **Decision:** routine small improvement as part of SB's daily commit habit.
-- **Changed:** 
+- **Changed:**
 - **Rationale:** keep the repo maintained and the contribution chart active;
   only real improvements are committed, never empty commits.
 - **Status:** active.
